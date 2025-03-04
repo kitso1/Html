@@ -1,0 +1,15 @@
+.flex-container {
+   flex-wrap: wrap;
+    display: flex;
+    /*flex-direction: column;*/
+    background-color: #d90d0d;
+    padding: 10px;
+    justify-content: space-around;
+    
+}
+table{
+    border: solid black;
+}
+tr,td,th{
+    border: solid black;
+}
